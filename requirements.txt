@@ -1,3 +1,4 @@
+fastapi==0.115.6
 annotated-types==0.7.0; python_version >= '3.8'
 anyio==4.7.0; python_version >= '3.9'
 click==8.1.8; python_version >= '3.7'
